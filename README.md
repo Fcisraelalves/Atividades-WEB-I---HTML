@@ -4,4 +4,4 @@ Repositório das atividades (HTML) da disciplina Web I
 # Lista I - HTML
 
 Lista de atividades:
-- [Atividade - 1.0](atividade1)
+- [Atividade - 1.0](/atividade1)
