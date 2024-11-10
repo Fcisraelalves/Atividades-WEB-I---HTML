@@ -1,6 +1,7 @@
 📌 **Informações sobre o Repositório**
 
 - **Nome:** Atividades de HTML
+- **Autor:** Francisco Israel Alves
 - **Disciplina:** Desenvolvimento Web I
 - **Professor:** Thomaz Maia de Almeida
 - **Instituição:** Instituto Federal do Ceará (IFCE)
